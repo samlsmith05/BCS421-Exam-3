@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BCS421Exam3</string>
+
+    <!-- Main -->
+    <string name="MainUsernameTitle">Username</string>
+    <string name="MainPasswordTitle">Password</string>
+    <string name="MainLoginButton">LOGIN</string>
+    <string name="MainFailToast">Login not successful</string>
+
+    <!-- Menu Items-->
+    <string name="ItemShowGrades">Show Grades</string>
+    <string name="ItemAddGrade">Add Grade</string>
+
+    <!-- Student Fragment-->
+    <string name="SFEmailTitle">Email</string>
+    <string name="SFFirstTitle">First</string>
+    <string name="SFLastTitle">Last</string>
+
+    <!-- Grade Detail Fragment   -->
+    <string name="GDNameTitle">Name</string>
+    <string name="GDGradeTitle">Grade</string>
+
+    <!-- Add Grade Fragment   -->
+    <string name="AGNameTitle">Name</string>
+    <string name="AGGradeTitle">Grade</string>
+    <string name="AGAddGradeButton">ADD GRADE</string>
+
+
+
+</resources>
